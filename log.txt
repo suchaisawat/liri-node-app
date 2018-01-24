@@ -158,3 +158,36 @@ Here's the Song: Hello
 Here's the Album the song is from: Hello
 Check out this Preview Url: null
 ------------------------------ 4 ------------------------------
+Release Year: 1978
+Title: Superman
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 93%
+Country where the movie was produced: USA, UK, Panama, Switzerland, Canada
+)Language of the movie: English
+Plot: An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors: Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Here's the Artist: Adele
+Here's the Song: Hello
+Here's the Album the song is from: Hello
+Check out this Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=35c4c0f0094743369ddc6208babe4e82
+------------------------------ 0 ------------------------------
+Here's the Artist: Jhene Aiko
+Here's the Song: Hello Ego
+Here's the Album the song is from: Hello Ego
+Check out this Preview Url: null
+------------------------------ 2 ------------------------------
+Here's the Artist: Adele
+Here's the Song: Hello
+Here's the Album the song is from: 25
+Check out this Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=35c4c0f0094743369ddc6208babe4e82
+------------------------------ 1 ------------------------------
+Here's the Artist: Dillon Francis
+Here's the Song: Hello There
+Here's the Album the song is from: Hello There
+Check out this Preview Url: https://p.scdn.co/mp3-preview/698defcdd9bff67bc6d804dee3803270a4d53962?cid=35c4c0f0094743369ddc6208babe4e82
+------------------------------ 3 ------------------------------
+Here's the Artist: Karol G
+Here's the Song: Hello
+Here's the Album the song is from: Hello
+Check out this Preview Url: null
+------------------------------ 4 ------------------------------
